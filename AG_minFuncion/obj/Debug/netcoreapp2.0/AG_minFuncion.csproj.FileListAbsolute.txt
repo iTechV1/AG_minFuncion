@@ -1,0 +1,11 @@
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\obj\Debug\netcoreapp2.0\AG_minFuncion.csprojResolveAssemblyReference.cache
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\obj\Debug\netcoreapp2.0\AG_minFuncion.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\obj\Debug\netcoreapp2.0\AG_minFuncion.AssemblyInfoInputs.cache
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\obj\Debug\netcoreapp2.0\AG_minFuncion.AssemblyInfo.cs
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\bin\Debug\netcoreapp2.0\AG_minFuncion.deps.json
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\bin\Debug\netcoreapp2.0\AG_minFuncion.runtimeconfig.json
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\bin\Debug\netcoreapp2.0\AG_minFuncion.runtimeconfig.dev.json
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\bin\Debug\netcoreapp2.0\AG_minFuncion.dll
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\bin\Debug\netcoreapp2.0\AG_minFuncion.pdb
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\obj\Debug\netcoreapp2.0\AG_minFuncion.dll
+C:\Users\ivans\source\repos\AG_minFuncion\AG_minFuncion\obj\Debug\netcoreapp2.0\AG_minFuncion.pdb
